@@ -1,0 +1,112 @@
+﻿body {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+th{
+    text-align:center;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: "Exo", sans-serif;
+    color: #fff;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #ee7752);
+    background-size: 400% 400%;
+    animation: gradientBG 600s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.rcorners1 {
+border-radius:25px !important;
+
+}
+
+.container {
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    text-align: center;
+
+}
+
+a {
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: 300;
+}
+.bigfield{
+    width:200px;
+    height:40px;
+    color:black !important;
+
+}
+
+h3 {
+    color: #eee;
+    font-weight: 100;
+}
+
+h5 {
+    color: #eee;
+    font-weight: 300;
+}
+
+a{
+    font-size:20px;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    color: #ddd;
+
+}
+/*li a {
+    font-size:20px;
+}*/
+
+.navbar-brand{
+    font-size : 30px !important;
+
+}
+.usertext{
+    color:black !important;
+}
+.one {
+    color: black !important;
+}

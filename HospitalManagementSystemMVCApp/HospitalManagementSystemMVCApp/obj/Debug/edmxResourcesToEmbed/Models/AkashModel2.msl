@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AkashModel2StoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="BillDatas">
+      <EntityTypeMapping TypeName="AkashModel2.BillData">
+        <MappingFragment StoreEntitySet="BillData">
+          <ScalarProperty Name="BillNo" ColumnName="BillNo" />
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="PatientType" ColumnName="PatientType" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="DoctorFees" ColumnName="DoctorFees" />
+          <ScalarProperty Name="RoomCharge" ColumnName="RoomCharge" />
+          <ScalarProperty Name="OperationCharges" ColumnName="OperationCharges" />
+          <ScalarProperty Name="MedicineFees" ColumnName="MedicineFees" />
+          <ScalarProperty Name="TotalDays" ColumnName="TotalDays" />
+          <ScalarProperty Name="LabFees" ColumnName="LabFees" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Doctors">
+      <EntityTypeMapping TypeName="AkashModel2.Doctor">
+        <MappingFragment StoreEntitySet="Doctor">
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="DoctorName" ColumnName="DoctorName" />
+          <ScalarProperty Name="Dept" ColumnName="Dept" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Donors">
+      <EntityTypeMapping TypeName="AkashModel2.Donor">
+        <MappingFragment StoreEntitySet="Donor">
+          <ScalarProperty Name="donorid" ColumnName="donorid" />
+          <ScalarProperty Name="donorname" ColumnName="donorname" />
+          <ScalarProperty Name="locationn" ColumnName="locationn" />
+          <ScalarProperty Name="bloodgrp" ColumnName="bloodgrp" />
+          <ScalarProperty Name="bloodbankname" ColumnName="bloodbankname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InPatients">
+      <EntityTypeMapping TypeName="AkashModel2.InPatient">
+        <MappingFragment StoreEntitySet="InPatient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="RoomNo" ColumnName="RoomNo" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="AdmissionDate" ColumnName="AdmissionDate" />
+          <ScalarProperty Name="DischargeDate" ColumnName="DischargeDate" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+          <ScalarProperty Name="AmountPerDay" ColumnName="AmountPerDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Labs">
+      <EntityTypeMapping TypeName="AkashModel2.Lab">
+        <MappingFragment StoreEntitySet="Lab">
+          <ScalarProperty Name="LabId" ColumnName="LabId" />
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="TestDate" ColumnName="TestDate" />
+          <ScalarProperty Name="TestType" ColumnName="TestType" />
+          <ScalarProperty Name="PatientType" ColumnName="PatientType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="logintables">
+      <EntityTypeMapping TypeName="AkashModel2.logintable">
+        <MappingFragment StoreEntitySet="logintable">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mailsinboxes">
+      <EntityTypeMapping TypeName="AkashModel2.mailsinbox">
+        <MappingFragment StoreEntitySet="mailsinbox">
+          <ScalarProperty Name="mailtranno" ColumnName="mailtranno" />
+          <ScalarProperty Name="frommailuserid" ColumnName="frommailuserid" />
+          <ScalarProperty Name="tomailuserid" ColumnName="tomailuserid" />
+          <ScalarProperty Name="subject" ColumnName="subject" />
+          <ScalarProperty Name="mailtext" ColumnName="mailtext" />
+          <ScalarProperty Name="ismailnew" ColumnName="ismailnew" />
+          <ScalarProperty Name="maildatetime" ColumnName="maildatetime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mailusers">
+      <EntityTypeMapping TypeName="AkashModel2.mailuser">
+        <MappingFragment StoreEntitySet="mailusers">
+          <ScalarProperty Name="mailuserid" ColumnName="mailuserid" />
+          <ScalarProperty Name="mailusername" ColumnName="mailusername" />
+          <ScalarProperty Name="mailuserrpwd" ColumnName="mailuserrpwd" />
+          <ScalarProperty Name="accountcreationdate" ColumnName="accountcreationdate" />
+          <ScalarProperty Name="hobbies" ColumnName="hobbies" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OutPatients">
+      <EntityTypeMapping TypeName="AkashModel2.OutPatient">
+        <MappingFragment StoreEntitySet="OutPatient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="TreatementDate" ColumnName="TreatementDate" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="AkashModel2.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="Disease" ColumnName="Disease" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projects">
+      <EntityTypeMapping TypeName="AkashModel2.project">
+        <MappingFragment StoreEntitySet="project">
+          <ScalarProperty Name="projectid" ColumnName="projectid" />
+          <ScalarProperty Name="studentname" ColumnName="studentname" />
+          <ScalarProperty Name="schoolname" ColumnName="schoolname" />
+          <ScalarProperty Name="phoneno" ColumnName="phoneno" />
+          <ScalarProperty Name="emailadress" ColumnName="emailadress" />
+          <ScalarProperty Name="conductionlocation" ColumnName="conductionlocation" />
+          <ScalarProperty Name="startdate" ColumnName="startdate" />
+          <ScalarProperty Name="enddate" ColumnName="enddate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoomDatas">
+      <EntityTypeMapping TypeName="AkashModel2.RoomData">
+        <MappingFragment StoreEntitySet="RoomData">
+          <ScalarProperty Name="RoomNo" ColumnName="RoomNo" />
+          <ScalarProperty Name="TreatementDate" ColumnName="TreatementDate" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

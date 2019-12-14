@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HMSModelStoreContainer" CdmEntityContainer="HMSEntities">
+    <EntitySetMapping Name="BillDatas">
+      <EntityTypeMapping TypeName="HMSModel.BillData">
+        <MappingFragment StoreEntitySet="BillData">
+          <ScalarProperty Name="BillNo" ColumnName="BillNo" />
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="PatientType" ColumnName="PatientType" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="DoctorFees" ColumnName="DoctorFees" />
+          <ScalarProperty Name="RoomCharge" ColumnName="RoomCharge" />
+          <ScalarProperty Name="OperationCharges" ColumnName="OperationCharges" />
+          <ScalarProperty Name="MedicineFees" ColumnName="MedicineFees" />
+          <ScalarProperty Name="TotalDays" ColumnName="TotalDays" />
+          <ScalarProperty Name="LabFees" ColumnName="LabFees" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Doctors">
+      <EntityTypeMapping TypeName="HMSModel.Doctor">
+        <MappingFragment StoreEntitySet="Doctor">
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="DoctorName" ColumnName="DoctorName" />
+          <ScalarProperty Name="Dept" ColumnName="Dept" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InPatients">
+      <EntityTypeMapping TypeName="HMSModel.InPatient">
+        <MappingFragment StoreEntitySet="InPatient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="RoomNo" ColumnName="RoomNo" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="AdmissionDate" ColumnName="AdmissionDate" />
+          <ScalarProperty Name="DischargeDate" ColumnName="DischargeDate" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+          <ScalarProperty Name="AmountPerDay" ColumnName="AmountPerDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Labs">
+      <EntityTypeMapping TypeName="HMSModel.Lab">
+        <MappingFragment StoreEntitySet="Lab">
+          <ScalarProperty Name="LabId" ColumnName="LabId" />
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="TestDate" ColumnName="TestDate" />
+          <ScalarProperty Name="TestType" ColumnName="TestType" />
+          <ScalarProperty Name="PatientType" ColumnName="PatientType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OutPatients">
+      <EntityTypeMapping TypeName="HMSModel.OutPatient">
+        <MappingFragment StoreEntitySet="OutPatient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="TreatementDate" ColumnName="TreatementDate" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="HMSModel.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="Disease" ColumnName="Disease" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoomDatas">
+      <EntityTypeMapping TypeName="HMSModel.RoomData">
+        <MappingFragment StoreEntitySet="RoomData">
+          <ScalarProperty Name="RoomNo" ColumnName="RoomNo" />
+          <ScalarProperty Name="TreatementDate" ColumnName="TreatementDate" />
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="LabNo" ColumnName="LabNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

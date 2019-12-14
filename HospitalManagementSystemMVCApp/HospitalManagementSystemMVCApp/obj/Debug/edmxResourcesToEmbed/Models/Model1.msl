@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="masterModelStoreContainer" CdmEntityContainer="masterEntities1">
+    <EntitySetMapping Name="doctors">
+      <EntityTypeMapping TypeName="masterModel.doctor">
+        <MappingFragment StoreEntitySet="doctors">
+          <ScalarProperty Name="doctor_id" ColumnName="doctor_id" />
+          <ScalarProperty Name="doctor_name" ColumnName="doctor_name" />
+          <ScalarProperty Name="department" ColumnName="department" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inpatients">
+      <EntityTypeMapping TypeName="masterModel.inpatient">
+        <MappingFragment StoreEntitySet="inpatients">
+          <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+          <ScalarProperty Name="admission_date" ColumnName="admission_date" />
+          <ScalarProperty Name="doctor_assigned" ColumnName="doctor_assigned" />
+          <ScalarProperty Name="disease" ColumnName="disease" />
+          <ScalarProperty Name="room_assigned" ColumnName="room_assigned" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="labs">
+      <EntityTypeMapping TypeName="masterModel.lab">
+        <MappingFragment StoreEntitySet="labs">
+          <ScalarProperty Name="lab_id" ColumnName="lab_id" />
+          <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+          <ScalarProperty Name="test_name" ColumnName="test_name" />
+          <ScalarProperty Name="test_cost" ColumnName="test_cost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="logintables">
+      <EntityTypeMapping TypeName="masterModel.logintable">
+        <MappingFragment StoreEntitySet="logintable">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="patients">
+      <EntityTypeMapping TypeName="masterModel.patient">
+        <MappingFragment StoreEntitySet="patients">
+          <ScalarProperty Name="patient_Id" ColumnName="patient_Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rooms">
+      <EntityTypeMapping TypeName="masterModel.room">
+        <MappingFragment StoreEntitySet="rooms">
+          <ScalarProperty Name="room_id" ColumnName="room_id" />
+          <ScalarProperty Name="room_name" ColumnName="room_name" />
+          <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+          <ScalarProperty Name="room_charge" ColumnName="room_charge" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

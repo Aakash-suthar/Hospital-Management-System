@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\bin\Debug\HospitalExceptions.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\bin\Debug\HospitalExceptions.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalExceptions\obj\Debug\HospitalExceptions.pdb

@@ -1,0 +1,51 @@
+﻿<Window x:Class="HospitalManagementSystemWPF.ViewPatientInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalManagementSystemWPF"
+        mc:Ignorable="d"
+        Title="ViewPatientInfo" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" >
+            <Label Margin="0 20 0 0">Enter patient id</Label>
+            <TextBox Name="patientid"></TextBox>
+            <Button Click="GetPatientHistory"
+                    Background="Black"
+                    Width="300px"
+                    Opacity="0.6"
+                    Foreground="White"
+                    Padding="5"
+                    Margin="5">Search</Button>
+            <Button Click="GotoDashboard"
+                    Background="Black"
+                    Opacity="0.6"
+                    Foreground="White"
+                    Width="300px"
+                    Padding="5"
+                    Margin="48,5" Content="Dashboard"/>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Margin="5,15,5,0" VerticalAlignment="Center">
+            <Label FontSize="30px" FontWeight="ExtraBold" Background="Black" Opacity="0.6" Foreground="White">View Patient Details</Label>
+            <Label>Patient Id</Label>
+            <TextBox Name="patient_id_textbox"></TextBox>
+            <Label>Patient Name</Label>
+            <TextBox Name="patient_name_textbox"></TextBox>
+            <Label>Patient Age</Label>
+            <TextBox Name="patient_age_textbox"></TextBox>
+            <Label>Patient Gender</Label>
+            <TextBox Name="patient_gender_textbox"></TextBox>
+            <Label>Patient Address</Label>
+            <TextBox Name="patient_address_textbox"></TextBox>
+            <Label>Patient Phone</Label>
+            <TextBox Name="patient_phone_textbox"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

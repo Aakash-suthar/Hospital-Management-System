@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="masterModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="doctors">
+          <Key>
+            <PropertyRef Name="doctor_id" />
+          </Key>
+          <Property Name="doctor_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="doctor_name" Type="varchar" MaxLength="50" />
+          <Property Name="department" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="inpatients">
+          <Key>
+            <PropertyRef Name="patient_id" />
+          </Key>
+          <Property Name="patient_id" Type="int" Nullable="false" />
+          <Property Name="admission_date" Type="date" />
+          <Property Name="doctor_assigned" Type="int" />
+          <Property Name="disease" Type="varchar" MaxLength="50" />
+          <Property Name="room_assigned" Type="int" />
+        </EntityType>
+        <EntityType Name="labs">
+          <Key>
+            <PropertyRef Name="lab_id" />
+          </Key>
+          <Property Name="lab_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="patient_id" Type="int" />
+          <Property Name="test_name" Type="varchar" MaxLength="50" />
+          <Property Name="test_cost" Type="int" />
+        </EntityType>
+        <EntityType Name="logintable">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="username" Type="varchar" MaxLength="40" />
+          <Property Name="pass" Type="varchar" MaxLength="40" />
+        </EntityType>
+        <EntityType Name="patients">
+          <Key>
+            <PropertyRef Name="patient_Id" />
+          </Key>
+          <Property Name="patient_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="50" />
+          <Property Name="Age" Type="int" />
+          <Property Name="Weight" Type="int" />
+          <Property Name="Gender" Type="varchar" MaxLength="50" />
+          <Property Name="Address" Type="varchar" MaxLength="50" />
+          <Property Name="PhoneNo" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="rooms">
+          <Key>
+            <PropertyRef Name="room_id" />
+          </Key>
+          <Property Name="room_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="room_name" Type="varchar" MaxLength="50" />
+          <Property Name="patient_id" Type="int" />
+          <Property Name="room_charge" Type="int" />
+        </EntityType>
+        <EntityContainer Name="masterModel1StoreContainer">
+          <EntitySet Name="doctors" EntityType="Self.doctors" Schema="187057_Akash" store:Type="Tables" />
+          <EntitySet Name="inpatients" EntityType="Self.inpatients" Schema="187057_Akash" store:Type="Tables" />
+          <EntitySet Name="labs" EntityType="Self.labs" Schema="187057_Akash" store:Type="Tables" />
+          <EntitySet Name="logintable" EntityType="Self.logintable" Schema="187057_Akash" store:Type="Tables" />
+          <EntitySet Name="patients" EntityType="Self.patients" Schema="187057_Akash" store:Type="Tables" />
+          <EntitySet Name="rooms" EntityType="Self.rooms" Schema="187057_Akash" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="masterModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="doctor">
+          <Key>
+            <PropertyRef Name="doctor_id" />
+          </Key>
+          <Property Name="doctor_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="doctor_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="department" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="inpatient">
+          <Key>
+            <PropertyRef Name="patient_id" />
+          </Key>
+          <Property Name="patient_id" Type="Int32" Nullable="false" />
+          <Property Name="admission_date" Type="DateTime" Precision="0" />
+          <Property Name="doctor_assigned" Type="Int32" />
+          <Property Name="disease" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="room_assigned" Type="Int32" />
+        </EntityType>
+        <EntityType Name="lab">
+          <Key>
+            <PropertyRef Name="lab_id" />
+          </Key>
+          <Property Name="lab_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="patient_id" Type="Int32" />
+          <Property Name="test_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="test_cost" Type="Int32" />
+        </EntityType>
+        <EntityType Name="logintable">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="username" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="pass" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="patient">
+          <Key>
+            <PropertyRef Name="patient_Id" />
+          </Key>
+          <Property Name="patient_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Age" Type="Int32" />
+          <Property Name="Weight" Type="Int32" />
+          <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PhoneNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="room">
+          <Key>
+            <PropertyRef Name="room_id" />
+          </Key>
+          <Property Name="room_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="room_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="patient_id" Type="Int32" />
+          <Property Name="room_charge" Type="Int32" />
+        </EntityType>
+        <EntityContainer Name="masterEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="doctors" EntityType="Self.doctor" />
+          <EntitySet Name="inpatients" EntityType="Self.inpatient" />
+          <EntitySet Name="labs" EntityType="Self.lab" />
+          <EntitySet Name="logintables" EntityType="Self.logintable" />
+          <EntitySet Name="patients" EntityType="Self.patient" />
+          <EntitySet Name="rooms" EntityType="Self.room" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="masterModel1StoreContainer" CdmEntityContainer="masterEntities">
+          <EntitySetMapping Name="doctors">
+            <EntityTypeMapping TypeName="masterModel1.doctor">
+              <MappingFragment StoreEntitySet="doctors">
+                <ScalarProperty Name="doctor_id" ColumnName="doctor_id" />
+                <ScalarProperty Name="doctor_name" ColumnName="doctor_name" />
+                <ScalarProperty Name="department" ColumnName="department" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="inpatients">
+            <EntityTypeMapping TypeName="masterModel1.inpatient">
+              <MappingFragment StoreEntitySet="inpatients">
+                <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+                <ScalarProperty Name="admission_date" ColumnName="admission_date" />
+                <ScalarProperty Name="doctor_assigned" ColumnName="doctor_assigned" />
+                <ScalarProperty Name="disease" ColumnName="disease" />
+                <ScalarProperty Name="room_assigned" ColumnName="room_assigned" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="labs">
+            <EntityTypeMapping TypeName="masterModel1.lab">
+              <MappingFragment StoreEntitySet="labs">
+                <ScalarProperty Name="lab_id" ColumnName="lab_id" />
+                <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+                <ScalarProperty Name="test_name" ColumnName="test_name" />
+                <ScalarProperty Name="test_cost" ColumnName="test_cost" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="logintables">
+            <EntityTypeMapping TypeName="masterModel1.logintable">
+              <MappingFragment StoreEntitySet="logintable">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="pass" ColumnName="pass" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="patients">
+            <EntityTypeMapping TypeName="masterModel1.patient">
+              <MappingFragment StoreEntitySet="patients">
+                <ScalarProperty Name="patient_Id" ColumnName="patient_Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Age" ColumnName="Age" />
+                <ScalarProperty Name="Weight" ColumnName="Weight" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="rooms">
+            <EntityTypeMapping TypeName="masterModel1.room">
+              <MappingFragment StoreEntitySet="rooms">
+                <ScalarProperty Name="room_id" ColumnName="room_id" />
+                <ScalarProperty Name="room_name" ColumnName="room_name" />
+                <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+                <ScalarProperty Name="room_charge" ColumnName="room_charge" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

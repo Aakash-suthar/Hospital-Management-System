@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="masterModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="doctor">
+    <Key>
+      <PropertyRef Name="doctor_id" />
+    </Key>
+    <Property Name="doctor_id" Type="Int32" Nullable="false" />
+    <Property Name="doctor_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="department" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="inpatient">
+    <Key>
+      <PropertyRef Name="patient_id" />
+    </Key>
+    <Property Name="patient_id" Type="Int32" Nullable="false" />
+    <Property Name="admission_date" Type="DateTime" Precision="0" />
+    <Property Name="doctor_assigned" Type="Int32" />
+    <Property Name="disease" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="room_assigned" Type="Int32" />
+  </EntityType>
+  <EntityType Name="lab">
+    <Key>
+      <PropertyRef Name="lab_id" />
+    </Key>
+    <Property Name="lab_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patient_id" Type="Int32" />
+    <Property Name="test_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="test_cost" Type="Int32" />
+  </EntityType>
+  <EntityType Name="logintable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="username" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="pass" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="patient">
+    <Key>
+      <PropertyRef Name="patient_Id" />
+    </Key>
+    <Property Name="patient_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Weight" Type="Int32" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="room">
+    <Key>
+      <PropertyRef Name="room_id" />
+    </Key>
+    <Property Name="room_id" Type="Int32" Nullable="false" />
+    <Property Name="room_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="patient_id" Type="Int32" />
+    <Property Name="room_charge" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="masterEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="doctors" EntityType="Self.doctor" />
+    <EntitySet Name="inpatients" EntityType="Self.inpatient" />
+    <EntitySet Name="labs" EntityType="Self.lab" />
+    <EntitySet Name="logintables" EntityType="Self.logintable" />
+    <EntitySet Name="patients" EntityType="Self.patient" />
+    <EntitySet Name="rooms" EntityType="Self.room" />
+  </EntityContainer>
+</Schema>

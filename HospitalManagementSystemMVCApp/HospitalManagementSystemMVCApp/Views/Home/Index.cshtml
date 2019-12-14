@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+    <div style="margin-top:0px;">
+        <br />
+        <div class="col-md-6">
+            <div class=" col-md-12" style="height:150px;">
+                <br />
+                <div class="col-md-12">
+                    <h1 style="font-size:40px;margin-left:20px;color:black; text-align:center;margin-top:80px;"><b>Hospital Management System</b></h1>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-md-6">
+            <br />
+            <div class="col-md-12" align="center" style="margin:0px;margin-left:30px;padding:0px;">
+
+                <p>
+                    @using (Html.BeginForm("Create", "Patients", FormMethod.Get))
+                    {
+                        <input type="submit" class="btn btn-warning btn-lg" value="Add Patient &raquo;" style="margin-top:00px;" />
+                    }
+                    @using (Html.BeginForm("Index", "Patients", FormMethod.Get))
+                    {
+                        <input type="submit" class="btn btn-info btn-lg" value="View Patient &raquo;" style="margin-top:20px;" />
+                    }
+                    @using (Html.BeginForm("Create", "Labs", FormMethod.Get))
+                    {
+                        <input type="submit" class="btn btn-success btn-lg" value="Genrate Lab Report &raquo;" style="margin-top:20px;" />
+                    }
+                    @using (Html.BeginForm("Index", "Patients", FormMethod.Get))
+                    {
+                        <input type="submit" class="btn btn-primary btn-lg" value="Search Patient &raquo;" style="margin-top:20px;" />
+                    }
+                    @using (Html.BeginForm("Index", "Bills", FormMethod.Get))
+                    {
+                        <input type="submit" class="btn btn-default btn-lg" value="Gentare Bills &raquo;" style="margin-top:20px;" />
+                    }
+
+                </p>
+
+
+            </div>
+            @*<div class="col-md-5" align="center" style="border:solid blue 2px; height:358px;margin-left:30px;">
+                    <p style="margin-top:25px;"><img src="~/Images/hospital.png" /></p>
+
+                </div>*@
+        </div>
+    </div>

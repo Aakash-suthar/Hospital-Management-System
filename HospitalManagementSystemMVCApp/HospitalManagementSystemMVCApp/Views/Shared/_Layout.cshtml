@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        .li {
+            font-size: 30px;
+            color: red;
+        }
+        td{
+            text-align:center;
+        }
+        .maindiv {
+            padding: 40px;
+            color: black;
+            background-color: white;
+            min-height:525px
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar navbar-top" style="height:60px">
+        <div class="container">
+            <div class="navbar-header" style="margin-top:10px;padding-left:170px">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar "></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar "></span>
+                    <span class="icon-bar"></span>
+                    <b><span class="icon-bar "></span></b>
+                </button>
+                @*@Html.ActionLink("Home", "Index", "Home", new { @class = "navbar-brand" })*@
+                <a href="/Home/Index" style="font-size:30px;margin-right:10px;">Home</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav" style="margin-top:10px;">
+                    <li>@Html.ActionLink("Patient", "Index", "patients")</li>
+                    <li>@Html.ActionLink("Doctors", "Index", "doctors")</li>
+                    <li>@Html.ActionLink("Labs", "Index", "labs")</li>
+                    <li>@Html.ActionLink("Rooms", "Index", "rooms")</li>
+                    <li>@Html.ActionLink("InPatient", "Index", "InPatients")</li>
+                    <li>@Html.ActionLink("Bills", "Index", "Bills")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" style="margin:0px;padding:20px;background-color:white;color:black;min-height:400px;">
+
+        @RenderBody()
+       
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

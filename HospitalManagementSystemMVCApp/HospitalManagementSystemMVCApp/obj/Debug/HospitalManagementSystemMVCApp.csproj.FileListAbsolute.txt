@@ -1,0 +1,400 @@
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll.config
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.pdb
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe.config
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.rsp
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe.config
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.rsp
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.AppContext.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Console.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Compression.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Claims.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.ValueTuple.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe.config
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.rsp
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\WebGrease.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CoreCompileInputs.cache
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CopyComplete
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.dll
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.pdb
+D:\Anjani\module6\PLP\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.pdb
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll.config
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.pdb
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe.config
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.rsp
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe.config
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.rsp
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.AppContext.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Console.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe.config
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.rsp
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CopyComplete
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.dll
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.pdb
+C:\Users\Vishal-PC\Desktop\subhashini\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csprojAssemblyReference.cache
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csprojAssemblyReference.cache
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.pdb
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll.config
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\HospitalManagementSystemMVCApp.pdb
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.exe.config
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csc.rsp
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.exe.config
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\csi.rsp
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.AppContext.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Console.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.exe.config
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\vbc.rsp
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\WebGrease.dll
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Helpers.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Mvc.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Optimization.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.Razor.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vishal-PC\Desktop\Done\HospitalManagementSystemMVCApp\HospitalManagementSystemMVCApp\obj\Debug\HospitalManagementSystemMVCApp.csproj.CopyComplete

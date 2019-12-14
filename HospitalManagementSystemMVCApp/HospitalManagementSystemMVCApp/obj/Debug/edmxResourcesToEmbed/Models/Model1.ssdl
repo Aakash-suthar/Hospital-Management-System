@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="masterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="doctors">
+    <Key>
+      <PropertyRef Name="doctor_id" />
+    </Key>
+    <Property Name="doctor_id" Type="int" Nullable="false" />
+    <Property Name="doctor_name" Type="varchar" MaxLength="50" />
+    <Property Name="department" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="inpatients">
+    <Key>
+      <PropertyRef Name="patient_id" />
+    </Key>
+    <Property Name="patient_id" Type="int" Nullable="false" />
+    <Property Name="admission_date" Type="date" />
+    <Property Name="doctor_assigned" Type="int" />
+    <Property Name="disease" Type="varchar" MaxLength="50" />
+    <Property Name="room_assigned" Type="int" />
+  </EntityType>
+  <EntityType Name="labs">
+    <Key>
+      <PropertyRef Name="lab_id" />
+    </Key>
+    <Property Name="lab_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="patient_id" Type="int" />
+    <Property Name="test_name" Type="varchar" MaxLength="50" />
+    <Property Name="test_cost" Type="int" />
+  </EntityType>
+  <EntityType Name="logintable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="username" Type="varchar" MaxLength="40" />
+    <Property Name="pass" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="patients">
+    <Key>
+      <PropertyRef Name="patient_Id" />
+    </Key>
+    <Property Name="patient_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Age" Type="int" />
+    <Property Name="Weight" Type="int" />
+    <Property Name="Gender" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="50" />
+    <Property Name="PhoneNo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="rooms">
+    <Key>
+      <PropertyRef Name="room_id" />
+    </Key>
+    <Property Name="room_id" Type="int" Nullable="false" />
+    <Property Name="room_name" Type="varchar" MaxLength="50" />
+    <Property Name="patient_id" Type="int" />
+    <Property Name="room_charge" Type="int" />
+  </EntityType>
+  <EntityContainer Name="masterModelStoreContainer">
+    <EntitySet Name="doctors" EntityType="Self.doctors" Schema="187057_Akash" store:Type="Tables" />
+    <EntitySet Name="inpatients" EntityType="Self.inpatients" Schema="187057_Akash" store:Type="Tables" />
+    <EntitySet Name="labs" EntityType="Self.labs" Schema="187057_Akash" store:Type="Tables" />
+    <EntitySet Name="logintable" EntityType="Self.logintable" Schema="187057_Akash" store:Type="Tables" />
+    <EntitySet Name="patients" EntityType="Self.patients" Schema="187057_Akash" store:Type="Tables" />
+    <EntitySet Name="rooms" EntityType="Self.rooms" Schema="187057_Akash" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

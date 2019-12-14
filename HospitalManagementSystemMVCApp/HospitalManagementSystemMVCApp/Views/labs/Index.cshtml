@@ -1,0 +1,51 @@
+﻿@model IEnumerable<HospitalManagementSystemMVCApp.Models.lab>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.lab_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.patient_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.test_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.test_cost)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.lab_id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.patient_id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.test_name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.test_cost)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.lab_id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.lab_id })
+    </td>
+</tr>
+}
+
+</table>

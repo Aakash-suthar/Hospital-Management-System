@@ -1,0 +1,591 @@
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientHistory.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\sudy49730\Desktop\DotNet\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Final PLP Projects\PLP Projects\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\New folder\WPF App\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+D:\Project\New folder\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\work\subhashini\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\SearchPatientInfo.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\DELL\Desktop\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Complejhasvjcsde\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\background.jpg
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Images\cg_logo.png
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe.config
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalManagementSystemWPF.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.dll
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalBusinessLayer.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalEntities.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalExceptions.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\MySql.Data.xml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\bin\Debug\HospitalDataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_Content.g.cs
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatient.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\AddPatientTreatmentInfo.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\Dashboard.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateBill.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\GenerateLabReport.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\UpdatePatient.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\ViewPatientInfo.baml
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.g.resources
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.exe
+C:\Users\ADMIN\Desktop\Complete\Complete\HospitalManagementSystemWPF\HospitalManagementSystemWPF\obj\Debug\HospitalManagementSystemWPF.pdb

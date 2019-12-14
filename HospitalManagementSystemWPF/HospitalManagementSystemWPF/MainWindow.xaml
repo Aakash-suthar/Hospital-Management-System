@@ -1,0 +1,54 @@
+﻿<Window x:Class="HospitalManagementSystemWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalManagementSystemWPF"
+        mc:Ignorable="d"
+        Title="MainWindow"  Height="535.5" Width="800">
+
+    <Grid>
+
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="267*" ></ColumnDefinition>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="414*" ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--<StackPanel Grid.Column="0">
+            <Image Source="Images/background.jpg" Height="501"></Image>
+        </StackPanel>-->
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.ColumnSpan="4"
+                   FontWeight="Bold"
+               FontSize="30"
+                   Foreground="DarkSeaGreen" Margin="0,0,-0.4,336.6" Grid.RowSpan="2">
+            Hospital Management System
+        </Label>
+
+        <StackPanel Margin="233,40.2,232.6,-0.4" Grid.Row="1" Grid.ColumnSpan="4"
+                    HorizontalAlignment="Center" Width="328">
+            <Label HorizontalContentAlignment="Center"
+                   FontSize="20"
+                   Foreground="#1e88e5">
+                Sign In</Label>
+            <Label>Username</Label>
+            <TextBox Name="username_textbox" Padding="5" Margin="5"></TextBox>
+            <Label>Password</Label>
+            <PasswordBox Name="password_textbox" Padding="5" Margin="5" />
+            <Button Padding="5" Margin="5"
+                    Foreground="White"
+                    BorderThickness="0"
+                    Background="#1e88e5" Click="Button_Click">
+                Continue
+            </Button>
+
+
+        </StackPanel>
+    </Grid>
+</Window>
